@@ -8,6 +8,7 @@ const defaultModifiersClassNames = {
   outside: '-outside',
   wide: '-wide',
   disabled: '-disabled',
+  blocked: '-blocked',
   selected: '-selected',
   selectedStart: '-selected-start',
   selectedMiddle: '-selected-middle',
